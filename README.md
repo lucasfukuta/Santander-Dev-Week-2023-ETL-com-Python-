@@ -5,7 +5,7 @@ Você é um cientista de dados no Santander e recebeu a tarefa de envolver seus 
 ## Condições do Problema:
   1) Você recebeu uma planilha simples, em formato CSV ('SDW2023.csv'), com uma lista de IDs de usuário do banco:
 
-      (lista criada para resolver esse desafio)
+      (lista criada para resolver esse problema)
 ```python
      UserID
      4680
